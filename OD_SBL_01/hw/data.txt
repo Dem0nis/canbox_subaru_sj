@@ -1,0 +1,5 @@
+Mark Geehy: ARM32FEPSCBT6
+Device ID:0x410 
+Device flash Size : 24KBytes
+Device family :STM32F10xx Medium-density
+DC Current: 33mA
