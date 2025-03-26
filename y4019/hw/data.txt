@@ -1,0 +1,5 @@
+Mark STM32FEBKC6T6
+Device ID:0x412 
+Device flash Size : 32KBytes
+Device family :STM32F10xx Low-density
+DC Current: 9mA
